@@ -1,1 +1,1 @@
-# beginner_game
+# games for python beginner
