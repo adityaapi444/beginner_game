@@ -1,3 +1,15 @@
+#chocolate wrapper puzzle game
+# price of one chocolate=2
+#you will get 1 chocolate by exchanging 3 wrapper
+#write a program to count how many chocolates can you eat in 'n' money
+# n is input value for money
+#ex.
+#input: money=20
+#output: chocolate=14   wrapper remains: 2
+
+
+
+
 money=int(input("ente your money"))
 c=w=0
 if money>0:                                 #chocolate count by exchange with money
